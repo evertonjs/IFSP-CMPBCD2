@@ -2,11 +2,6 @@
 
 Bem-vindo ao repositório de bases de dados do curso "Banco de Dados 2". Aqui você encontrará os arquivos SQL que compõem os bancos de dados utilizados durante o curso.
 
-## Estrutura do Repositório
-
-- **[clinica_veterinaria.sql](bases-de-dados/clinica_veterinaria.sql):** Script SQL para criação do banco de dados do hospital veterinário.
-- **[outro_banco.sql](bases-de-dados/outro_banco.sql):** Outro exemplo de banco de dados para prática.
-
 ## Como Utilizar
 
 1. **Clone o Repositório:**
