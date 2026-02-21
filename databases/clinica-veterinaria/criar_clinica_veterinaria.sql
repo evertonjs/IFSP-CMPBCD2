@@ -8,12 +8,12 @@
 /* ----------------------------------------------------------
    (Opcional) Recria o banco
    ---------------------------------------------------------- */
-DROP DATABASE IF EXISTS clinica_veterinaria;
-CREATE DATABASE clinica_veterinaria
+DROP DATABASE IF EXISTS clinicavet;
+CREATE DATABASE clinicavet
   DEFAULT CHARACTER SET utf8mb4
   DEFAULT COLLATE utf8mb4_0900_ai_ci;
 
-USE clinica_veterinaria;
+USE clinicavet;
 
 /* ----------------------------------------------------------
    Tabela: Cliente
